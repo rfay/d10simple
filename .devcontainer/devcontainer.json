@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/ddev/ddev/install-ddev:latest": {}
+    "ghcr.io/ddev/ddev/install-ddev:v1.22.2": {}
   }
 }
